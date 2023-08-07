@@ -6,5 +6,6 @@ i am a self-taught freelance full-stack programmer, [@hackclub](https://github.c
 - 📨 [alex@defo.one](mailto:alex@defo.one)
 - 😄 pronouns: he/him
 - 💖 helping humans one venture at a time
+- 🗃️ wanna send me something? [alex.wetransfer.com](https://alex.wetransfer.com)
 
 need to contact me? feel free to send me an email anytime!
