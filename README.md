@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-i am a self-taught freelance full-stack programmer, [@hackclub](https://github.com/hackclub) chapter leader, and full-time student
+i am a self-taught freelance full-stack programmer, [@hackclub](https://github.com/hackclub) hcb operations contributor, and full-time student
 
 - 💬 email me! 😁
 - 📨 [alex@defo.one](mailto:alex@defo.one)
