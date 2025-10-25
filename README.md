@@ -4,8 +4,5 @@ i am a self-taught freelance junior full-stack programmer, [@hackclub](https://g
 
 - 💬 email me! 😁
 - 📨 [alex@defo.one](mailto:alex@defo.one)
-- 😄 pronouns: he/him
-- 💖 helping humans one venture at a time
-- 🗃️ wanna send me something? [alexd.wetransfer.com](https://alexd.wetransfer.com)
 
 need to contact me? feel free to send me an email anytime!
